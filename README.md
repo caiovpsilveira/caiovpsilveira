@@ -5,4 +5,4 @@
 [![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiovpsilveira)](https://github.com/caiovpsilveira/github-readme-stats)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiovpsilveira)](https://github.com/caiovpsilveira/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiovpsilveira)](https://github.com/caiovpsilveira)
